@@ -1,7 +1,7 @@
 {
 	"name": "NIIDA PWA Sample",
 	"short_name": "NIIDA",
-	"background_color": "#fc980c",
+	"background_color": "#00bfff",
 	"icons": [{
 		"src": "./icon/icon-256.png",
 		"sizes": "256x256",
